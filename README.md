@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kushalgulia
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning web development, mysql
 - 💞️ I’m looking to collaborate on anything
 - 📫 to reach me mail me at kushalgulia896@gmail.com
 
